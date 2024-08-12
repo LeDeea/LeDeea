@@ -1,6 +1,6 @@
-- 👋 hello, I’m @LeDeea
-- 👀 I’m interested in coding for fun
-- 🌱 I’m currently learning Pascal and C++
+- 👋 hello, I’m @Sech
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Games Developing
   
 
 <!---
